@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer');
 
 const app = express();
 const port = 3032;
-const url_page = 'https://doradobet.com/';
+const url_page = 'https://1wwqux.life/casino/play/aviator';
 
 
 function delay(time) {

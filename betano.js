@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer');
 
 const app = express();
 const port = 3031;
-const url_page = 'https://ec.betano.com/';
+const url_page = 'https://ec.betano.com/casino/games/aviator/25454/';
 
 function delay(time) {
     return new Promise(function(resolve) { 
