@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer');
 
 const app = express();
 const port = 3030;
-const url_page = `https://launch.spribegaming.com/%7Bgame%7D/aviator?user=2481917&token=170P2481917P0r7niqavhddjslzwel&lang=es&currency=USD&operator=ecuabet`
+const url_page = `https://casino.virtualsoft.tech/game/play/?gameid=203831&mode=real&provider=undefined&lan=es&partnerid=8&token=0P2481917Pkdoaqr0ij0un764u0rl5&balance=0&currency=USD&userid=2336468&isMobile=false`
 
 function delay(time) {
     return new Promise(function (resolve) {
